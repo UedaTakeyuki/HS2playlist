@@ -1,0 +1,19 @@
+{
+  "title": "ContentsList" ,
+  "items": [
+    { "text": "Sky News", "icon": "mdi-play" , "content": "9Auq9mYxFEE"},
+    { "text": "Euronews français", "icon": "mdi-play" , "content": "MsN0_WNXvh8"},
+    { "text": "FRANCE 24", "icon": "mdi-play" , "content": "6x7lV6E32lA"},
+    { "text": "CNA 24/7 LIVE", "icon": "mdi-play" , "content": "XWq5kBlakcQ"},
+    { "text": "Africanews français en direct -", "icon": "mdi-play" , "content": "b6R9-7KZ8YM"},
+    { "text": "Africa24 Live", "icon": "mdi-play" , "content": "L5Ppr0JvPws"},
+    { "text": "LIVE: Latest News Headlines and Events l ABC News Live", "icon": "mdi-play" , "content": "w_Ma8oQLmSM"},
+    { "text": "News 12", "icon": "mdi-play" , "content": "RmmRlztXETI"},
+    { "text": "franceinfo - DIRECT TV", "icon": "mdi-play" , "content": "Z-Nwo-ypKtM"},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""}
+  ]
+}
