@@ -2,6 +2,6 @@
   "title": "Programs",
   "items": [
     { "text": "Miraculous saison 4", path: "/tvprogram/miraculous_saison_4"},
-    { "text": "LES ANIMAUX",         path: "/tvprogram/les_animaux"},
-  ],
+    { "text": "LES ANIMAUX",         path: "/tvprogram/les_animaux"}
+  ]
 }
