@@ -1,0 +1,9 @@
+{
+  "items":[
+    { "text": "Experience", "link": "experience_menu/news"},
+    { "text": "LiveCam"   , "link": "livecam_menu/livecam"},
+    { "text": "News"      , "link": "news_menu/news"},
+    { "text": "Readout"   , "link": "readout_menu/readout"},
+    { "text": "TVProgram" , "link": "tvprogram_menu"}
+  ]
+}
