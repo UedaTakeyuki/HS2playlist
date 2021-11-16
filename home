@@ -1,9 +1,9 @@
 {
   "items":[
-    { "text": "Experience", "link": "experience_menu/news"},
-    { "text": "LiveCam"   , "link": "livecam_menu/livecam"},
-    { "text": "News"      , "link": "news_menu/news"},
-    { "text": "Readout"   , "link": "readout_menu/readout"},
-    { "text": "TVProgram" , "link": "tvprogram_menu"}
+    { "text": "Experience", "link": "experience/news"},
+    { "text": "LiveCam"   , "link": "livecam/livecam"},
+    { "text": "News"      , "link": "news/news"},
+    { "text": "Readout"   , "link": "readout/readout"},
+    { "text": "TVProgram" , "link": "tvprogram/menu"}
   ]
 }
