@@ -4,6 +4,7 @@
     { "text": "LiveCam"   , "link": "livecam/livecam"},
     { "text": "News"      , "link": "news/news"},
     { "text": "Readout"   , "link": "readout/readout"},
-    { "text": "TVProgram" , "link": "tvprogram/menu"}
+    { "text": "TVProgram" , "link": "tvprogram/menu"},
+    { "text": "Miscellaneous" , "link": "misc/misc"}
   ]
 }
