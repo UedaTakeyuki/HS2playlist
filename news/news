@@ -2,6 +2,7 @@
   "title": "ContentsList" ,
   "items": [
     { "text": "Sky News", "icon": "mdi-play" , "content": "9Auq9mYxFEE"},
+    { "text": "Euronews English Live", "icon": "mdi-play" , "content": "sPgqEHsONK8"},
     { "text": "Euronews français", "icon": "mdi-play" , "content": "MsN0_WNXvh8"},
     { "text": "FRANCE 24", "icon": "mdi-play" , "content": "6x7lV6E32lA"},
     { "text": "CNA 24/7 LIVE", "icon": "mdi-play" , "content": "XWq5kBlakcQ"},
