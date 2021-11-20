@@ -1,7 +1,7 @@
 
    
 {
-  ""
+  "memo1": "https://www.youtube.com/c/LOUOfficiel/videos",
   "title": "Lou!",
   "items": [
     { "text": "", "icon": "mdi-play" , "content": ""},
@@ -10,8 +10,16 @@
     { "text": "", "icon": "mdi-play" , "content": ""},
     { "text": "", "icon": "mdi-play" , "content": ""},
     { "text": "", "icon": "mdi-play" , "content": ""},
-    { "text": "", "icon": "mdi-play" , "content": ""},
-    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "LOU! Compilation *Girl Power* 5 épisodes HD [Officiel] Dessin animé", "icon": "mdi-play" , "content": "9cf6EcFdgi4"},
+    { "text": "LOU! ❄ Compilation 1h Sports d'hiver ❄ HD [Officiel]", "icon": "mdi-play" , "content": "E3caznAnzMI"},
+    { "text": "LOU! Compilation d'épisodes *LOU et son CHAT* Dessin animé", "icon": "mdi-play" , "content": "WbrlEoWafBk"},
+    { "text": "LOU! Compilation d'épisodes *LOU et MINA Meilleures amis* Dessin animé", "icon": "mdi-play" , "content": "lqbZDGpeM78"},
+    { "text": "LOU! - Compilations de 2H30 (12 épisodes) !! HD [Officiel] Dessin animé", "icon": "mdi-play" , "content": "jM2Ixa1X5vo"},
+    { "text": "LOU! - Compilations de 8 épisodes #5 !! HD [Officiel] Dessin animé", "icon": "mdi-play" , "content": "NaQ9nh9mtLg"},
+    { "text": "LOU! Compilation de 8 épisodes #4 !! HD [Officiel] Dessin animé", "icon": "mdi-play" , "content": "XwCFEG7KwbA"},
+    { "text": "LOU! Compilation de 8 épisodes #3 !! HD [Officiel] Dessin animé", "icon": "mdi-play" , "content": "CsiesZJJ-Ck"},
+    { "text": "LOU! Compilation de 8 épisodes #2 !! HD [Officiel] Dessin animé", "icon": "mdi-play" , "content": "Fh9O9g-MZ8Y"},
+    { "text": "LOU! Compilation de 2h !! HD [Officiel] Dessin animé", "icon": "mdi-play" , "content": "M5UOsQTduRY"},
     { "text": "LOU! Compilation de l'hiver !! (1h) HD Dessin animé pour enfants *Fêtes de fin d'année*", "icon": "mdi-play" , "content": "fPCcUSWE"},
     { "text": "LOU! Compilation d'1h - Episode 49 à 52 !! HD Dessin animé", "icon": "mdi-play" , "content": "RQJegZQLTdI"},
     { "text": "LOU! - Compilation d'1h Lou&Tristan 2 ❤ HD [Officiel] Dessin animé", "icon": "mdi-play" , "content": "TtTzVpFNp0w"},
