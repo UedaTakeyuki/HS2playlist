@@ -1,0 +1,7 @@
+{
+  "title": "Programs",
+  "items": [
+    { "text": "Nice",                     "link": "experience/walking/nice"},
+    { "text": "Donostia — San Sebastián", "link": "experience/walking/sansebastian"}
+  ]
+}
