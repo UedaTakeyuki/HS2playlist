@@ -1,6 +1,6 @@
 {
   "items":[
-    { "text": "Experience", "link": "experience/experience"},
+    { "text": "Experience", "link": "experience/menu"},
     { "text": "LiveCam"   , "link": "livecam/livecam"},
     { "text": "News"      , "link": "news/news"},
     { "text": "Readout"   , "link": "readout/readout"},
