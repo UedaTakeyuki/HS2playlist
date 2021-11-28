@@ -1,0 +1,15 @@
+{
+  "title": "T&M - Théâtre & Musique",
+  "items": [
+    { "text": "Ring Saga 1. (Das Rheingold), staging Antoine Gindt, conductor Peter Rundel (sous-titres français)", "icon": "mdi-play" , "content": "MduSzXS11dQ"},
+    { "text": "Ring Saga 2. (Die Walküre), staging Antoine Gindt, conductor Peter Rundel (sous-titres français)", "icon": "mdi-play" , "content": "b8kEmmS1w3w"},
+    { "text": "Ring Saga 3. (Siegfried), staging Antoine Gindt, conductor Peter Rundel (sous-titres français)", "icon": "mdi-play" , "content": "flWGNJCX-xI"},
+    { "text": "Ring Saga 4. (Die Götterdammerung), staging Antoine Gindt, conductor Peter Rundel (VOST français)", "icon": "mdi-play" , "content": "m3bzpG0Dah4"},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""}
+  ]
+}
