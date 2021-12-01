@@ -1,8 +1,13 @@
 {
-  "title": "ContentsList",
+  "title": "À la recherche du temps perdu",
   "items": [
-    { "text": "Alizé lit Du coté de chez Swann, Marcel Proust - Voyage au bout de la nuit (1/9)", "icon": "mdi-play" , "content": "OdhXs3nNLn0"},
+    { "text": "Davia lit Histoires naturelles de Jules Renard - Voyage au bout de la nuit (5/5)", "icon": "mdi-play" , "content": "F1zMEjEa4gY"},
+    { "text": "Davia lit Histoires naturelles de Jules Renard - Voyage au bout de la nuit (4/5)", "icon": "mdi-play" , "content": "vDQ1wcbWW-8"},
+    { "text": "Davia lit Histoires naturelles de Jules Renard - Voyage au bout de la nuit (3/5)", "icon": "mdi-play" , "content": "bkA6KZWRKsY"},
+    { "text": "Davia lit Histoires naturelles de Jules Renard - Voyage au bout de la nuit (2/5)", "icon": "mdi-play" , "content": "7kC9BbVtVRI"},
+    { "text": "Davia lit Histoires naturelles de Jules Renard - Voyage au bout de la nuit (1/5)", "icon": "mdi-play" , "content": "V73RHAzR414"},
     { "text": "ALICE'S ADVENTURES IN WONDERLAND - FULL AudioBook | by Lewis Carroll - Adventure & Fantasy V2", "icon": "mdi-play" , "content": "jJHBtOu5aX0"},
+    { "text": "À la recherche du temps perdu",         "link": "/readout/dutempsperdu"},
     { "text": "", "icon": "mdi-play" , "content": ""}
   ]
 }
