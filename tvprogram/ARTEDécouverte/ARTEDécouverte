@@ -1,0 +1,23 @@
+{
+  "memo1": "https://www.youtube.com/artefr/featured",
+  "title": "ARTE Découverte",
+  "items": [
+    { "text": "De la Ligurie à l’Ombrie | Paradis naturels italiens | ARTE", "icon": "mdi-play" , "content": "eO1vJq87l7c"},
+    { "text": "Des Abruzzes à la Calabre | Paradis naturels italiens | ARTE", "icon": "mdi-play" , "content": "X5cNbganaLc"},
+    { "text": "Les pouvoirs du chanvre | ARTE Regards", "icon": "mdi-play" , "content": "qAhW0uyqxy4"},
+    { "text": "Vietnam : comment sauver les pangolins ? | GEO Reportage | ARTE", "icon": "mdi-play" , "content": "2-GAk7atVwk"},
+    { "text": "En Écosse, un hospice pour animaux | ARTE Regards", "icon": "mdi-play" , "content": "Qcr7HUG16qk"},
+    { "text": "Passion vétérinaire : soigner gratuitement les animaux malades | ARTE Regards", "icon": "mdi-play" , "content": "f6mLRaYcEWw"},
+    { "text": "En mer du Nord, un répit pour les phoques | ARTE Regards", "icon": "mdi-play" , "content": "6LaEbmJ2AtM"},
+    { "text": "La mafia du bois en Roumanie | ARTE Regards", "icon": "mdi-play" , "content": "qn8Q2jEPvy8"},
+    { "text": "Sous le sol du Groenland | ARTE Regards", "icon": "mdi-play" , "content": "GRM5KpXvjmw"},
+    { "text": "Stromboli, terre de feu | GEO Reportage | ARTE", "icon": "mdi-play" , "content": "VozBls4uwaE"},
+    { "text": "Inde : Sikkim, l'expérience bio | ARTE Reportage", "icon": "mdi-play" , "content": "wOYQztFXBWY"},
+    { "text": "Bâtir ou verdir ? | Square idée | ARTE", "icon": "mdi-play" , "content": "OH7JWdX76dI"},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""}
+  ]
+}
