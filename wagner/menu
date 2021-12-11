@@ -1,9 +1,11 @@
 {
   "title": "Programs",
   "items": [
-    { "text": "", "link": ""},
-    { "text": "", "link": ""},
-    { "text": "", "link": ""},
+    { "text": "ThéâtreMusique", "link": "/wagner/ThéâtreMusique"},
+    { "text": "AntonioPappano", "link": "/wagner/AntonioPappano"},
+    { "text": "parsifal", "link": "/wagner/parsifal"},
+    { "text": "parsifal_syberberg", "link": "/wagner/parsifal_syberberg"},
+    { "text": "misc", "link": "/wagner/misc"},
     { "text": "", "link": ""}
   ]
 }
