@@ -1,6 +1,6 @@
 {
   "title": "ContentsList",
   "items": [
-    { "text": "LIVE @ Santa Claus Village - Arctic Circle - Rovaniemi - Lapland Finland", "icon": "mdi-play" , "content": "VClJIez-w6Y"}
+    { "text": "LIVE @ Santa Claus Village - Arctic Circle - Rovaniemi - Lapland Finland", "icon": "mdi-play" , "content": "VClJIez-w6Y", "live": true}
   ]
 }
