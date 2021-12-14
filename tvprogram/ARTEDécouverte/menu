@@ -1,0 +1,21 @@
+{
+  "title": "Programs",
+  "items": [
+    { "text": "misc", "link": "/tvprogram/ARTEDécouverte/ARTEDécouverte"},
+    { "text": "Invitation au voyage", "link": "/tvprogram/ARTEDécouverte/InvitationAuVoyage"},
+    { "text": "Animaux", "link": "/tvprogram/ARTEDécouverte/Animaux"},
+    { "text": "À la découverte du Japon", "link": "/tvprogram/ARTEDécouverte/ÀLaDécouverteDuJapon"},
+    { "text": "Evasion", "link": "/tvprogram/ARTEDécouverte/Evasion"},
+    { "text": "Ecologie & Environnement", "link": "/tvprogram/ARTEDécouverte/EcologieEnvironnement"},
+    { "text": "Reportages complets", "link": "/tvprogram/ARTEDécouverte/ReportagesComplets"},
+    { "text": "Évasion en Europe", "link": "/tvprogram/ARTEDécouverte/ÉvasionEnEurope"},
+    { "text": "", "link": "/tvprogram/ARTEDécouverte/"},
+    { "text": "", "link": "/tvprogram/ARTEDécouverte/"},
+    { "text": "", "link": "/tvprogram/ARTEDécouverte/"},
+    { "text": "", "link": "/tvprogram/ARTEDécouverte/"},
+    { "text": "", "link": "/tvprogram/ARTEDécouverte/"},
+    { "text": "", "link": "/tvprogram/ARTEDécouverte/"},
+    { "text": "", "link": ""}
+  ]
+}
+
