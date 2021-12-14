@@ -1,0 +1,10 @@
+{
+  "title": "Programs",
+  "items": [
+    { "text": "miraculous_saison_1", "link": "/tvprogram/miraculous/miraculous_saison_1"},
+    { "text": "miraculous_saison_2", "link": "/tvprogram/miraculous/miraculous_saison_2"},
+    { "text": "miraculous_saison_3", "link": "/tvprogram/miraculous/miraculous_saison_3"},
+    { "text": "miraculous_saison_4", "link": "/tvprogram/miraculous_saison_4"}
+  ]
+}
+

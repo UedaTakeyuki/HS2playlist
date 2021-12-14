@@ -2,8 +2,7 @@
   "title": "Programs",
   "items": [
     { "text": "Pokémon", "link": "/tvprogram/pokémon"},
-    { "text": "Miraculous saison 3", "link": "/tvprogram/miraculous_saison_3"},
-    { "text": "Miraculous saison 4", "link": "/tvprogram/miraculous_saison_4"},
+    { "text": "Miraculous Ladybug et Chat Noir", "link": "/tvprogram/miraculous/menu"},
     { "text": "Shaun the Sheep - Season 5",         "link": "/tvprogram/ShauntheSheep_season_5"},
     { "text": "LES ANIMAUX",         "link": "/tvprogram/les_animaux"},
     { "text": "The Secrets of Nature",         "link": "/tvprogram/TheSecretsOfNature"},
