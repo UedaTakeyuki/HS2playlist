@@ -5,6 +5,7 @@
     { "text": "News"      , "link": "news/news"},
     { "text": "Readout"   , "link": "readout/readout"},
     { "text": "TVProgram" , "link": "tvprogram/menu"},
+    { "text": "Chanson" , "link": "chanson/menu"},
     { "text": "Miscellaneous" , "link": "misc/misc"}
   ]
 }
