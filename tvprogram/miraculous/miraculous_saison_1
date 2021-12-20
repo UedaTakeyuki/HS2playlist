@@ -1,5 +1,6 @@
-{ "memo1": "https://www.youtube.com/playlist?list=PLMS4HBpodEomQybjONDpYpk27rnAahusZ",
- "title": "Miraculous Ladybug et Chat Noir (Saison 1)", 
+{
+"title": "Miraculous Saison 1",
+"ref": "https://www.youtube.com/playlist?list=PLMS4HBpodEomQybjONDpYpk27rnAahusZ", 
 "items": [
 {"text": "Miraculous Ladybug - S01E01 - Climatika", "content": "pOhLsAhER-0"} ,
 {"text": "Miraculous Ladybug - S01E02 - Le Bulleur", "content": "cYFcehAJ1pM"} ,

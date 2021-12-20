@@ -1,4 +1,5 @@
 {
+  "title": "Home menu" ,
   "items":[
     { "text": "Experience", "link": "experience/menu"},
     { "text": "LiveCam"   , "link": "livecam/livecam"},

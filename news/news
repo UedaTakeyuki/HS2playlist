@@ -1,5 +1,5 @@
 {
-  "title": "ContentsList" ,
+  "title": "News" ,
   "items": [
     { "text": "Sky News", "icon": "mdi-play" , "content": "9Auq9mYxFEE", "live": true},
     { "text": "Euronews English Live", "icon": "mdi-play" , "content": "sPgqEHsONK8", "live": true},
