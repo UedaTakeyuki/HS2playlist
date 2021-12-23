@@ -1,7 +1,12 @@
 {
   "title": "LES ANIMAUX DE LA 8",
   "items": [
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "Le grand bêtisier des Animaux de la 8 - Émission intégrale", "icon": "mdi-play" , "content": "gGJhVUj76U8"},
+    { "text": "Les Animaux de la 8 en Midi Pyrénées - Émission intégrale", "icon": "mdi-play" , "content": "KzDxqghcYYM"},
+    { "text": "Les Animaux de la 8 en Savoie - Émission intégrale", "icon": "mdi-play" , "content": "ps5pISdhxJg"},
     { "text": "LES ANIMAUX DE LA 8 DANS LE JURA - ÉMISSION INTÉGRALE", "icon": "mdi-play" , "content": "af_WlhHXals"},
+    { "text": "Les Animaux de la 8 dans l'Herault - Émission intégrale", "icon": "mdi-play" , "content": "q2nB6K6Lq9Y"},
     { "text": "LES ANIMAUX DE LA 8 À LA FERME - ÉMISSION INTÉGRALE", "icon": "mdi-play" , "content": "qvIrWNiuxEM"},
     { "text": "LES ANIMAUX DE LA 8 DANS L'ORNE - ÉMISSION INTÉGRALE", "icon": "mdi-play" , "content": "dEdnYmR3L1k"},
     { "text": "LES ANIMAUX DE LA 8 EN BRETAGNE - ÉMISSION INTÉGRALE", "icon": "mdi-play" , "content": "Psihlio1P8w"},
