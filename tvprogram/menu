@@ -8,6 +8,7 @@
     { "text": "The Secrets of Nature",         "link": "/tvprogram/TheSecretsOfNature"},
     { "text": "Our Planet",         "link": "/tvprogram/OurPlanet"},
     { "text": "Free Documentary",         "link": "/tvprogram/FreeDocumentary/menu"},
-    { "text": "ARTE Découverte",         "link": "/tvprogram/ARTEDécouverte/menu"}
+    { "text": "ARTE Découverte",         "link": "/tvprogram/ARTEDécouverte/menu"},
+    { "text": "Documentaires en Français", "link": "/tvprogram/DocumentairesenFrançais"}
   ]
 }
