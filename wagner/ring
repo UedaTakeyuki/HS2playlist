@@ -1,0 +1,12 @@
+{
+  "title": "Der Ring des Nibelungen",
+  "items": [
+    { "text": "ThéâtreMusique", "link": "/wagner/ThéâtreMusique"},
+    { "text": "AntonioPappano", "link": "/wagner/AntonioPappano"},
+    { "text": "Vienna", "link": "/wagner/Vienna"},
+    { "text": "Valencia", "link": "/wagner/Valencia"},
+    { "text": "Stuttgart", "link": "/wagner/Stuttgart"},
+    { "text": "", "link": ""}
+  ]
+}
+
