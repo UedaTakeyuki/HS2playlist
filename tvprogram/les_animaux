@@ -4,7 +4,13 @@
     { "text": "", "icon": "mdi-play" , "content": ""},
     { "text": "", "icon": "mdi-play" , "content": ""},
     { "text": "", "icon": "mdi-play" , "content": ""},
+<<<<<<< HEAD
+    { "text": "Les Animaux de la 8 dans le Loire et Cher - Émission intégrale", "icon": "mdi-play" , "content": "RzNT00dnOZM"},
+    { "text": "Les Animaux de la 8, de l'Alsace à Europa Park - Émission intégrale", "icon": "mdi-play" , "content": "xT9_Bkbpfwo"},
+    { "text": "Les Animaux de la 8 dans l'Aude - Émission intégrale", "icon": "mdi-play" , "content": "PysLALBG-Fs"},
+=======
     { "text": "", "icon": "mdi-play" , "content": ""},
+>>>>>>> ac836a07d1402635d93593e0076e325a0de45bef
     { "text": "Les Animaux de la 8 dans les Alpes-Maritimes - Émission intégrale", "icon": "mdi-play" , "content": "R2wSWOMPS0A"},
     { "text": "Les Animaux de la 8 au Portugal - Émission intégrale", "icon": "mdi-play" , "content": "HV0EG8k_xh8"},
     { "text": "Les Animaux de la 9 en Seine et Marne - Émission intégrale", "icon": "mdi-play" , "content": "3e3JM29fNZo"},
