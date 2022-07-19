@@ -3,8 +3,8 @@
   "items": [
     { "text": "", "link": "/readout/VoyageAuBoutDeLaNuit/"},
     { "text": "", "link": "/readout/VoyageAuBoutDeLaNuit/"},
-    { "text": "", "link": "/readout/VoyageAuBoutDeLaNuit/"},
-    { "text": "", "link": "/readout/VoyageAuBoutDeLaNuit/"},
+    { "text": "Du coté de chez Swann", "link": "/readout/VoyageAuBoutDeLaNuit/dutempsperdu"},
+    { "text": "Histoires naturelles", "link": "/readout/VoyageAuBoutDeLaNuit/HistoiresNaturelles"},
     { "text": "les Fables de La Fontaine", "link": "/readout/VoyageAuBoutDeLaNuit/lesFablesdeLaFontaine"},
     { "text": "Les Misérables", "link": "/readout/VoyageAuBoutDeLaNuit/LesMisérables"}
   ]

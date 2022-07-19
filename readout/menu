@@ -9,8 +9,6 @@
     { "text": "", "link": "/readout/"},
     { "text": "", "link": "/readout/"},
     { "text": "", "link": "/readout/"},
-    { "text": "Voyage Au Bout De La Nuit", "link": "/readout/VoyageAuBoutDeLaNuit/menu"},
-    { "text": "Histoires naturelles de Jules Renard", "link": "/readout/readout"},
-    { "text": "Du coté de chez Swann", "link": "/readout/dutempsperdu"}
+    { "text": "Voyage Au Bout De La Nuit", "link": "/readout/VoyageAuBoutDeLaNuit/menu"}
   ]
 }
