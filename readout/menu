@@ -1,5 +1,5 @@
 {
-  "title": "TV Programs",
+  "title": "Read Out",
   "items": [
     { "text": "", "link": "/readout/"},
     { "text": "", "link": "/readout/"},
@@ -8,7 +8,7 @@
     { "text": "", "link": "/readout/"},
     { "text": "", "link": "/readout/"},
     { "text": "", "link": "/readout/"},
-    { "text": "", "link": "/readout/"},
+    { "text": "Miscellaneous", "link": "/readout/misc"},
     { "text": "Voyage Au Bout De La Nuit", "link": "/readout/VoyageAuBoutDeLaNuit/menu"}
   ]
 }
