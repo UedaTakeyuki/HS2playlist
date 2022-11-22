@@ -1,1 +1,17 @@
-SplitN" data-ty="struct" data-relpath=""></div><script defer src="sidebar-items1.62.1.js"></script></div></nav><main><div class="width-limiter"><div class="sub-container"><a class="sub-logo-container" href="../../alloc/index.html"><img class="rust-logo" src="../../rust-logo1.62.1.svg" alt="logo"></a><nav class="sub"><div class="theme-picker hidden"><button id="theme-picker" aria-label="Pick another theme!" aria-haspopup="menu" title="themes"><img width="22" height="22" alt="Pick another theme!" src="../../brush1.62.1.svg"></button><div id="theme-choices" role="menu"></div></div><form class="search-form"><div class="search-container"><span></span><input class="search-input" name="search" autocomplete="off" spellcheck="false" placeholder="Click or press ‘S’ to search, ‘?’ for more options…" type="search"><button type="button" id="help-button" title="help">?</button><a id="settings-menu" href="../../settings.html" title="settings"><img width="22" height="22" alt="Change settings" src="../../wheel1.62.1.svg"></a></d
+{
+  "title": "Parsifal",
+  "items": [
+    { "text": "Wagner - Parsifal - Elming, Sotin, Watson, Sinopoli Bayreuth 1998", "icon": "mdi-play" , "content": "BJkkXxdryD8"},
+    { "text": "Richard Wagner: Parsifal ", "icon": "mdi-play" , "content": "eqOBEH-JRhs"},
+    { "text": "Oper Richard Wagner - Parsifal - Jonas Kaufmann, Elīna Garanča, Ludovic Tézier... (2021)", "icon": "mdi-play" , "content": "HHNCvQ77drg"},
+    { "text": "Parsifal - Karajan - Salzburg 1981", "icon": "mdi-play" , "content": "d2kMnRmChBY"},
+    { "text": "Richard Wagner • Parsifal (Komplette Aufführung, 1992)(片桐仁美)", "icon": "mdi-play" , "content": "eRNIzLDzwaY"},
+    { "text": "PARSIFAL Wagner – Hungarian State Opera", "icon": "mdi-play" , "content": "j5O17S4uHZ0"},
+    { "text": "Wagner - Parsifal (Christian Thielemann)", "icon": "mdi-play" , "content": "JG_unzPPZ6E"},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""}
+  ]
+}
