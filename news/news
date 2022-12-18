@@ -2,10 +2,10 @@
   "title": "News" ,
   "items": [
     { "text": "Sky News", "icon": "mdi-play" , "content": "9Auq9mYxFEE", "live": true},
-    { "text": "Euronews English Live", "icon": "mdi-play" , "content": "ntmPIzlkcJk", "live": true},
+    { "text": "Euronews English Live", "icon": "mdi-play" , "content": "pykpO5kQJ98", "live": true},
     { "text": "Euronews français", "icon": "mdi-play" , "content": "NiRIbKwAejk", "live": true},
-    { "text": "Euronews (en español) ", "icon": "mdi-play" , "content": "HYE67W-35KI", "live": true},
-    { "text": "Euronews (in Italiano) ", "icon": "mdi-play" , "content": "pUcmpyynASM-yQ", "live": true},
+    { "text": "Euronews (en español) ", "icon": "mdi-play" , "content": "O9mOtdZ-nSk", "live": true},
+    { "text": "Euronews (in Italiano) ", "icon": "mdi-play" , "content": "pUcmpyynASM", "live": true},
     { "text": "Euronews (deutsch) ", "icon": "mdi-play" , "content": "CQ3KsEbsYHs", "live": true},
     { "text": "FRANCE 24", "icon": "mdi-play" , "content": "gxG3pdKvlIs", "live": true},
     { "text": "CNA 24/7 LIVE", "icon": "mdi-play" , "content": "XWq5kBlakcQ", "live": true},
