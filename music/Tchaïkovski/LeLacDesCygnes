@@ -1,0 +1,21 @@
+{
+  "title": "Casse Noisette",
+  "items": [
+    { "text": "Tchaikovsky: Swan Lake - The Kirov Ballet", "icon": "mdi-play" , "content": "9rJoB7y6Ncs"},
+    { "text": "Swan Lake Ballet", "icon": "mdi-play" , "content": "6LKyWPmtX7Y"},
+    { "text": "https://www.youtube.com/watch?v=MnyasGrciEM", "icon": "mdi-play" , "content": "MnyasGrciEM"},
+    { "text": "Swan Lake - Full Performance - Classical Ballet and Opera House", "icon": "mdi-play" , "content": "LbUatYSm8ME"},
+    { "text": "Swan Lake- Ballet", "icon": "mdi-play" , "content": "HfrYFF0whhQ"},
+    { "text": "Musique Classique Piano, Tchaikosky Le Lac des cygnes, ♫ Musique populaire et de l'amour", "icon": "mdi-play" , "content": "YoaK02t9je8"},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""},
+    { "text": "", "icon": "mdi-play" , "content": ""}
+  ]
+}

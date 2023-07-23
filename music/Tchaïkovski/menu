@@ -1,6 +1,7 @@
 {
   "title": "Tchaïkovski",
   "items": [
-    { "text": "CasseNoisette", "link": "/music/Tchaïkovski/CasseNoisette"}
+    { "text": "Casse Noisette", "link": "/music/Tchaïkovski/CasseNoisette"},
+    { "text": "Le Lac des cygnes", "link": "/music/Tchaïkovski/LeLacDesCygnes"}
   ]
 }
