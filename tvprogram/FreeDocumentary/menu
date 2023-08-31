@@ -1,7 +1,7 @@
 {
   "title": "Free Documentary",
   "items": [
-    { "text": "Free Documentary - Nature", "link": "/tvprogram/FreeDocumentary/FreeDocumentaryNature"},
+    { "text": "Free Documentary - Nature", "link": "FreeDocumentaryNature"},
     { "text": "Free Documentary - History ", "link": "/tvprogram/FreeDocumentary/FreeDocumentaryHistory"}
   ]
 }
