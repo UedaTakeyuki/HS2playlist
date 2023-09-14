@@ -2,6 +2,7 @@
   "title": "TV Programs",
   "items": [
     { "text": "Pokémon", "link": "/tvprogram/pokémon"},
+    { "text": "Animaux à adopter", "link": "PokemonCoJp.enclst"},
     { "text": "Tara Duncan", "link": "/tvprogram/taraduncan"},
     { "text": "Miraculous Ladybug et Chat Noir", "link": "/tvprogram/miraculous/menu"},
     { "text": "Shaun the Sheep - Season 5",         "link": "/tvprogram/ShauntheSheep_season_5"},
