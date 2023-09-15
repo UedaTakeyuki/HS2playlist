@@ -12,6 +12,7 @@
     { "text": "Free Documentary",         "link": "/tvprogram/FreeDocumentary/menu"},
     { "text": "ARTE Découverte",         "link": "/tvprogram/ARTEDécouverte/menu"},
     { "text": "Documentaires en Français", "link": "/tvprogram/DocumentairesenFrançais"},
+    { "text": "Documentaire Société", "link": "/tvprogram/DocumentaireSociété.enclst"},
     { "text": "Voyage au bout de la nuit", "link": "VoyageAuBoutDeLaNuit/menu.enclst"}
   ]
 }
