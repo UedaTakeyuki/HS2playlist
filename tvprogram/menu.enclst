@@ -8,8 +8,8 @@ PokémonOfficial/menu.enclst | The Official Pokémon channels
 ./les_animaux | LES ANIMAUX
 /tvprogram/TheSecretsOfNature | The Secrets of Nature 
 /tvprogram/OurPlanet | Our Planet
-/tvprogram/documentaires/menu.enclst | documentaires 🇫🇷
-/tvprogram/documentaries/menu.enclst | documentaries 🇬🇧 
+documentaires/menu.enclst | documentaires 🇫🇷
+documentaries/menu.enclst | documentaries 🇬🇧 
 /tvprogram/DocumentairesenFrançais | Documentaires en Français 
 /tvprogram/DocumentaireSociété.enclst | Documentaire Société 
 /tvprogram/imineoDocumentaires.enclst | imineo Documentaires 
