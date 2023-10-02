@@ -1,7 +1,6 @@
 {
   "title": "News" ,
   "items": [
-    { "text": "Euronews", "icon": "mdi-play" , "link": "euronews.enclst"},
     { "text": "Sky News", "icon": "mdi-play" , "content": "9Auq9mYxFEE", "live": true},
     { "text": "Euronews English Live", "icon": "mdi-play" , "content": "pykpO5kQJ98", "live": true},
     { "text": "Euronews français", "icon": "mdi-play" , "content": "NiRIbKwAejk", "live": true},
@@ -34,6 +33,7 @@
     { "text": "Local 10 News South Florida, Miami, Fort Lauderdale and the Keys.", "icon": "mdi-play" , "content": "HaEejO0PmdQ"},
     { "text": "LIVE: Watch TRT World", "icon": "mdi-play" , "content": "5mL-OkdM7Tc"},
     { "text": "NTV Kenya Livestream | January 2023", "icon": "mdi-play" , "content": "pJ8lslV7GVU"},
+    { "text": "Euronews", "icon": "mdi-play" , "link": "euronews.enclst"},
     { "text": "", "icon": "mdi-play" , "content": ""},
     { "text": "", "icon": "mdi-play" , "content": ""},
     { "text": "", "icon": "mdi-play" , "content": ""},
