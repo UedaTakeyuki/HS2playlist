@@ -3,6 +3,7 @@
   "items": [
     { "text": "Tchaïkovski", "link": "/music/Tchaïkovski/menu"},
     { "text": "Fauré", "link": "./Fauré/menu.enclst"},
-    { "text": "Wagner", "link": "/wagner/menu"}
+    { "text": "Wagner", "link": "/wagner/menu"},
+    { "text": "Benjamin Britten", "link": "./BenjaminBritten/menu.enclst"}
   ]
 }
