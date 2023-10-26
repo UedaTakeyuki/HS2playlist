@@ -1,6 +1,7 @@
 {
-  "title": "Tchaïkovski",
+  "title": "Fauré",
   "items": [
     { "text": "Requiem", "link": "/music/Fauré/Requiem"}
+    { "text": "Pavane", "link": "./Pavane.enclst"}
   ]
 }
