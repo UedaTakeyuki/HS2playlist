@@ -2,7 +2,7 @@
   "title": "Music",
   "items": [
     { "text": "Tchaïkovski", "link": "/music/Tchaïkovski/menu"},
-    { "text": "Fauré", "link": "/music/Fauré/menu"},
+    { "text": "Fauré", "link": "./Fauré/menu.enclst"},
     { "text": "Wagner", "link": "/wagner/menu"}
   ]
 }
