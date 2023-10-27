@@ -34,7 +34,7 @@
     { "text": "LIVE: Watch TRT World", "icon": "mdi-play" , "content": "5VF4aor94gw"},
     { "text": "NTV Kenya Livestream | January 2023", "icon": "mdi-play" , "content": "pJ8lslV7GVU"},
     { "text": "Euronews", "icon": "mdi-play" , "link": "euronews.enclst"},
-    { "text": "American News", "icon": "mdi-play" , "content": "american.enclst"},
+    { "text": "American News", "icon": "mdi-play" , "link": "american.enclst"},
     { "text": "", "icon": "mdi-play" , "content": ""},
     { "text": "", "icon": "mdi-play" , "content": ""},
     { "text": "", "icon": "mdi-play" , "content": ""},
