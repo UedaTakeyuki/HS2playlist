@@ -1,8 +1,8 @@
 {
   "title": "Chanson",
   "items": [
-    { "text": "AhLesCrocodiles", "link": "/chanson/AhLesCrocodiles/AhLesCrocodiles"},
-    { "text": "miraculous", "link": "/chanson/miraculous/miraculous"},
+    { "text": "AhLesCrocodiles", "link": "AhLesCrocodiles/AhLesCrocodiles"},
+    { "text": "miraculous", "link": "miraculous/miraculous"},
     { "text": "", "link": ""},
     { "text": "", "link": ""}
   ]
