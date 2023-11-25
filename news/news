@@ -4,9 +4,8 @@
     { "text": "Sky News", "icon": "mdi-play" , "content": "9Auq9mYxFEE", "live": true},
     { "text": "Euronews English Live", "icon": "mdi-play" , "content": "pykpO5kQJ98", "live": true},
     { "text": "Euronews français", "icon": "mdi-play" , "content": "NiRIbKwAejk", "live": true},
-    { "text": "Euronews (en español) ", "icon": "mdi-play" , "content": "O9mOtdZ-nSk", "live": true},
-    { "text": "Euronews (in Italiano) ", "icon": "mdi-play" , "content": "pUcmpyynASM", "live": true},
-    { "text": "Euronews (deutsch) ", "icon": "mdi-play" , "content": "CQ3KsEbsYHs", "live": true},
+    { "text": "Euronews", "icon": "mdi-play" , "link": "euronews.enclst"},
+    { "text": "🇺🇸 American News", "icon": "mdi-play" , "link": "american.enclst"},
     { "text": "FRANCE 24", "icon": "mdi-play" , "content": "l8PMl7tUDIE", "live": true},
     { "text": "CNA 24/7 LIVE", "icon": "mdi-play" , "content": "XWq5kBlakcQ", "live": true},
     { "text": "Africanews français en direct -", "icon": "mdi-play" , "content": "b6R9-7KZ8YM", "live": true},
@@ -28,16 +27,6 @@
     { "text": "TVC News Nigeria Live", "icon": "mdi-play" , "content": "42llI5Jhp_w"},
     { "text": "🔴 Watch CGTN News LIVE HD 24/7", "icon": "mdi-play" , "content": "FGabkYr-Sfs"},
     { "text": "LIVE: Watch TRT World", "icon": "mdi-play" , "content": "5VF4aor94gw"},
-    { "text": "NTV Kenya Livestream | January 2023", "icon": "mdi-play" , "content": "pJ8lslV7GVU"},
-    { "text": "Euronews", "icon": "mdi-play" , "link": "euronews.enclst"},
-    { "text": "🇺🇸 American News", "icon": "mdi-play" , "link": "american.enclst"},
-    { "text": "", "icon": "mdi-play" , "content": ""},
-    { "text": "", "icon": "mdi-play" , "content": ""},
-    { "text": "", "icon": "mdi-play" , "content": ""},
-    { "text": "", "icon": "mdi-play" , "content": ""},
-    { "text": "", "icon": "mdi-play" , "content": ""},
-    { "text": "", "icon": "mdi-play" , "content": ""},
-    { "text": "", "icon": "mdi-play" , "content": ""},
-    { "text": "", "icon": "mdi-play" , "content": ""}
+    { "text": "NTV Kenya Livestream | January 2023", "icon": "mdi-play" , "content": "pJ8lslV7GVU"}
   ]
 }
