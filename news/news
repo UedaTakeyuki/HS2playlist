@@ -13,18 +13,13 @@
     { "text": "🌍 African News",  "link": "africa/news.enclst"},
     { "text": "🌏 Asian News",  "link": "Asia/news.enclst"},
     { "text": "FRANCE 24",  "content": "l8PMl7tUDIE", "live": true},
-    { "text": "CNA 24/7 LIVE",  "content": "XWq5kBlakcQ", "live": true},
     { "text": "News 12",  "content": "37OKlipyVFc", "live": true},
     { "text": "franceinfo - DIRECT TV",  "content": "Z-Nwo-ypKtM", "live": true},
     { "text": "CANAL 24 HORAS EN DIRECTO 🔴 Toda la actualidad nacional e internacional l RTVE Noticias 24H",  "content": "mzdfGCdNSHQ", "live": true},
     { "text": "DW News livestream | Headline news from around the world",  "content": "pqabxBKzZ6M", "live": true},
     { "text": "Watch ABC News Australia live | ABC News",  "content": "vOTiJkg1voo"},
     { "text": "Channels Television Live",  "content": "-c8LoR84Xjs"},
-    { "text": "KTN NEWS KENYA LIVE",  "content": "PNjkBih1qRs"},
-    { "text": "TVC News Nigeria LIVESTREAM",  "content": "mVoZ6zAsZ3Q"},
-    { "text": "TVC News Nigeria Live",  "content": "42llI5Jhp_w"},
     { "text": "🔴 Watch CGTN News LIVE HD 24/7",  "content": "FGabkYr-Sfs"},
-    { "text": "LIVE: Watch TRT World",  "content": "5VF4aor94gw"},
-    { "text": "NTV Kenya Livestream | January 2023",  "content": "pJ8lslV7GVU"}
+    { "text": "LIVE: Watch TRT World",  "content": "5VF4aor94gw"}
   ]
 }
