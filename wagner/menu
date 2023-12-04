@@ -7,7 +7,7 @@
     { "text": "parsifal_syberberg", "link": "/wagner/parsifal_syberberg"},
     { "text": "ring", "link": "/wagner/ring"},
     { "text": "lohengrin", "link": "lohengrin.enclst"},
-    { "text": "misc", "link": "/wagner/misc"},
+    { "text": "misc", "link": "misc"},
     { "text": "", "link": ""}
   ]
 }
