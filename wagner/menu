@@ -8,6 +8,7 @@
     { "text": "ring", "link": "/wagner/ring"},
     { "text": "lohengrin", "link": "lohengrin.enclst"},
     { "text": "misc", "link": "misc"},
+    { "text": "Tannhäuser", "link": "Tannhäuser.enclst"},
     { "text": "", "link": ""}
   ]
 }
