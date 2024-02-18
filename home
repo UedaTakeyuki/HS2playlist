@@ -8,6 +8,7 @@
     { "text": "TVProgram" , "link": "tvprogram/menu.enclst"},
     { "text": "Chanson" , "link": "chanson/menu"},
     { "text": "Music" , "link": "music/menu"},
+    { "text": "Learning" , "link": "learning/menu"},
     { "text": "Miscellaneous" , "link": "misc/misc"}
   ]
 }
