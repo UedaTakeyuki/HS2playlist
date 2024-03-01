@@ -5,6 +5,7 @@
     { "text": "Fauré", "link": "./Fauré/menu.enclst"},
     { "text": "Wagner", "link": "/wagner/menu"},
     { "text": "Benjamin Britten", "link": "./BenjaminBritten/menu.enclst"},
+    { "text": "Bach", "link": "./Bach/menu.enclst"},
     { "text": "Mahler", "link": "Mahler/menu.enclst"}
   ]
 }
