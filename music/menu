@@ -7,6 +7,7 @@
     { "text": "Benjamin Britten", "link": "./BenjaminBritten/menu.enclst"},
     { "text": "Bach", "link": "./Bach/menu.enclst"},
     { "text": "Mahler", "link": "Mahler/menu.enclst"},
-    { "text": "Knabenchor", "link": "Knabenchor/menu.enclst"}
+    { "text": "Knabenchor", "link": "Knabenchor/menu.enclst"},
+    { "text": "Medieval Music", "link": "MedievalMusic/menu.enclst"},
   ]
 }
