@@ -10,6 +10,7 @@
     { "text": "lohengrin", "link": "lohengrin.enclst"},
     { "text": "misc", "link": "misc"},
     { "text": "Tannhäuser", "link": "Tannhäuser.enclst"},
+    { "text": "Bayreuth Vinylman", "link": "BayreuthVinylman.enclst"},
     { "text": "", "link": ""}
   ]
 }
