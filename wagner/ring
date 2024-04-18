@@ -7,6 +7,7 @@
     { "text": "Valencia", "link": "/wagner/Valencia"},
     { "text": "Stuttgart", "link": "/wagner/Stuttgart"},
     { "text": "Teatro Colón", "link": "/wagner/TeatroColón"},
+    { "text": "Chéreau/Boulez", "link": "wagner/ChéreauBoulez.enclst"},
     { "text": "", "link": ""}
   ]
 }
