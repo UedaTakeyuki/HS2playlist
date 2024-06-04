@@ -6,6 +6,7 @@
     { "text": "News"      , "link": "news/news"},
     { "text": "Readout"   , "link": "readout/readout"},
     { "text": "TVProgram" , "link": "tvprogram/menu.enclst"},
+    { "text": "Movie" , "link": "Movie/menu.enclst"},
     { "text": "Chanson" , "link": "chanson/menu"},
     { "text": "Music" , "link": "music/menu"},
     { "text": "Learning" , "link": "learning/menu.enclst"},
