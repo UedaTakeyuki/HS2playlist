@@ -17,6 +17,7 @@
     { "text": "Bayreuther Festspiele", "link": "BayreutherFestspiele.enclst"},
     { "text": "Semperoper Dresden", "link": "SemperoperDresden.enclst"},
     { "text": "Opernhaus Zürich", "link": "OpernhausZürich.enclst"},
+    { "text": "Crashkurs", "link": "Crashkurs.enclst"},
     { "text": "", "link": ""}
   ]
 }
