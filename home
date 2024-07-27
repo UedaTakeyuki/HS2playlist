@@ -10,6 +10,7 @@
     { "text": "Chanson" , "link": "chanson/menu"},
     { "text": "Music" , "link": "music/menu"},
     { "text": "Learning" , "link": "learning/menu.enclst"},
+    { "text": "VLOG" , "link": "vlog/menu.enclst"},
     { "text": "Miscellaneous" , "link": "misc/misc"}
   ]
 }
