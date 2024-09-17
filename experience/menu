@@ -1,7 +1,7 @@
 {
   "title": "Experience",
   "items": [
-    { "text": "Cab", "link": "experience/cab"},
-    { "text": "Walking", "link": "experience/walking/menu"}
+    { "text": "Cab", "link": "cab"},
+    { "text": "Walking", "link": "walking/menu"}
   ]
 }
