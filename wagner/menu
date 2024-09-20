@@ -1,5 +1,5 @@
 {
-  "title": "Programs",
+  "title": "Wagner",
   "items": [
     { "text": "Theater", "link": "/wagner/Theater/menu.enclst"},
     { "text": "ThéâtreMusique", "link": "/wagner/ThéâtreMusique"},
