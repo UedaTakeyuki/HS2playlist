@@ -1,12 +1,12 @@
 {
   "title": "Der Ring des Nibelungen",
   "items": [
-    { "text": "Festival Musica Strasbourg 2011", "link": "/wagner/FestivalMusica"},
+    { "text": "Festival Musica Strasbourg 2011", "link": "/wagner/Theater/FestivalMusica"},
     { "text": "AntonioPappano", "link": "/wagner/AntonioPappano"},
-    { "text": "Vienna", "link": "/wagner/Vienna"},
-    { "text": "Valencia", "link": "/wagner/Valencia"},
-    { "text": "Stuttgart", "link": "/wagner/Stuttgart"},
-    { "text": "Teatro Colón", "link": "/wagner/TeatroColón"},
+    { "text": "Vienna", "link": "/wagner/Theater/Vienna"},
+    { "text": "Valencia", "link": "/wagner/Theater/Valencia"},
+    { "text": "Stuttgart", "link": "/wagner/Theater/Stuttgart"},
+    { "text": "Teatro Colón", "link": "/wagner/Theater/TeatroColón"},
     { "text": "Chéreau/Boulez", "link": "ChéreauBoulez.enclst"},
     { "text": "", "link": ""}
   ]
