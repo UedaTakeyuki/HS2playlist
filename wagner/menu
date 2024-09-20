@@ -4,12 +4,7 @@
     { "text": "Theater", "link": "/wagner/Theater/menu.enclst"},
     { "text": "Title", "link": "/wagner/Title/menu.enclst"},
     { "text": "AntonioPappano", "link": "/wagner/AntonioPappano.enclst"},
-    { "text": "parsifal", "link": "/wagner/parsifal"},
-    { "text": "parsifal_syberberg", "link": "/wagner/parsifal_syberberg"},
-    { "text": "ring", "link": "/wagner/ring"},
-    { "text": "lohengrin", "link": "lohengrin.enclst"},
     { "text": "misc", "link": "misc"},
-    { "text": "Tannhäuser", "link": "Tannhäuser.enclst"},
     { "text": "Bayreuth Vinylman", "link": "BayreuthVinylman.enclst"},
     { "text": "Crashkurs", "link": "Crashkurs.enclst"},
     { "text": "", "link": ""}
