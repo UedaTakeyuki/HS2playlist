@@ -2,6 +2,7 @@
   "title": "Wagner",
   "items": [
     { "text": "Theater", "link": "/wagner/Theater/menu.enclst"},
+    { "text": "Title", "link": "/wagner/Title/menu.enclst"},
     { "text": "AntonioPappano", "link": "/wagner/AntonioPappano.enclst"},
     { "text": "parsifal", "link": "/wagner/parsifal"},
     { "text": "parsifal_syberberg", "link": "/wagner/parsifal_syberberg"},
