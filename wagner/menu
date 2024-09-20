@@ -1,6 +1,7 @@
 {
   "title": "Programs",
   "items": [
+    { "text": "Theater", "link": "/wagner/Theater/menu.enclst"},
     { "text": "Metropolitan Opera", "link": "/wagner/MetropolitanOpera.enclst"},
     { "text": "ThéâtreMusique", "link": "/wagner/ThéâtreMusique"},
     { "text": "AntonioPappano", "link": "/wagner/AntonioPappano"},
