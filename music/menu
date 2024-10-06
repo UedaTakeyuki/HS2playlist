@@ -10,6 +10,7 @@
     { "text": "Knabenchor", "link": "Knabenchor/menu.enclst"},
     { "text": "Medieval Music", "link": "MedievalMusic/menu.enclst"},
     { "text": "Mozart", "link": "Mozart/menu.enclst"},
+    { "text": "Conductors", "link": "Conductors/menu.enclst"},
     { "text": "EuroArts", "link": "EuroArts.enclst"}
   ]
 }
