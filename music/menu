@@ -11,6 +11,7 @@
     { "text": "Medieval Music", "link": "MedievalMusic/menu.enclst"},
     { "text": "Mozart", "link": "Mozart/menu.enclst"},
     { "text": "Conductors", "link": "Conductors/menu.enclst"},
-    { "text": "EuroArts", "link": "EuroArts.enclst"}
+    { "text": "EuroArts", "link": "EuroArts.enclst"},
+    { "text": "日本語字幕", "link": "日本語字幕/menu.enclst"}
   ]
 }
