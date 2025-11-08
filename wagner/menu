@@ -3,6 +3,7 @@
   "items": [
     { "text": "Theater", "link": "/wagner/Theater/menu.enclst"},
     { "text": "Title", "link": "/wagner/Title/menu.enclst"},
+    { "text": "Conductor", "link": "Conductor/menu.enclst"},
     { "text": "AntonioPappano", "link": "/wagner/AntonioPappano.enclst"},
     { "text": "misc", "link": "misc"},
     { "text": "Bayreuth Vinylman", "link": "BayreuthVinylman.enclst"},
