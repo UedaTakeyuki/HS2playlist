@@ -3,6 +3,6 @@
   "items": [
     { "text": "Cab", "link": "cab"},
     { "text": "Walking", "link": "walking/menu"},
-    { "text": "ポケふた", "link": "ポケふた/menu"}
+    { "text": "ポケふた", "link": "ポケふた/menu.enclst"}
   ]
 }
